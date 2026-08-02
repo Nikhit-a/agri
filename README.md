@@ -53,10 +53,17 @@ npm install
 npm run dev                          # http://localhost:3000
 ```
 
-## Deploying
+## Live Demo
 
-This is a standard Next.js app — deploy directly to [Vercel](https://vercel.com/) (recommended) by importing the GitHub repo, or run `npm run build && npm start` on any Node host. Remember to set the environment variables from `.env.local` in your hosting provider's dashboard.
+ Live Application:
+https://agri-two-rose.vercel.app/
+
+The application is deployed on Vercel and is publicly accessible.
+
+## Deployment
+
+This project is built with Next.js and deployed on Vercel. Firebase is used for backend services, and environment variables are configured securely through the Vercel dashboard.
 
 ## License
 
-MIT — free to use for learning or as a portfolio project.
+MIT License – free to use for learning and educational purposes.
