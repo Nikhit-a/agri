@@ -1,8 +1,13 @@
 # AgriPredict — AI Crop Recommendation Dashboard
 
 An interactive dashboard that analyzes weather, soil, and location data to recommend suitable crops and predict crop success, helping farmers make data-driven agricultural decisions.
+##  Live Demo
 
-**Stack:** JavaScript · React.js · Next.js · Firebase (Firestore)
+https://agri-two-rose.vercel.app/
+
+## Tech Stack
+
+JavaScript • React.js • Next.js • Firebase (Firestore) • Tailwind CSS • Recharts
 
 ## Features
 
