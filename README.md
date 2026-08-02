@@ -53,17 +53,20 @@ Get a free API key from [OpenWeatherMap](https://openweathermap.org/api) and add
 
 ### 3. Run locally
 ```bash
-cp .env.local.example .env.local   # fill in your values
+# Copy the environment variables template
+cp .env.local.example .env.local
+
+# Add your Firebase configuration and optional OpenWeatherMap API key
+
+# Install dependencies
 npm install
-npm run dev                          # http://localhost:3000
+
+# Start the development server
+npm run dev
 ```
 
-## Live Demo
+Open http://localhost:3000 in your browser.
 
- Live Application:
-https://agri-two-rose.vercel.app/
-
-The application is deployed on Vercel and is publicly accessible.
 
 ## Deployment
 
